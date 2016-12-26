@@ -86,3 +86,7 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 ## Technical Writing
  - Tom Johnson: http://idratherbewriting.com/2016/12/20/changing-roles-of-technical-writers/
 
+## Emerging Technology
+- PK Rasam : [How to future proof your idea, yourself and/or your business?](https://www.bluechilli.com/blog/how-to-future-proof-your-idea-yourself-and-your-business)
+
+
